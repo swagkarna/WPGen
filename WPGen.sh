@@ -31,7 +31,7 @@ declare -r lp="$2"
 declare -r lh=$(/usr/bin/ip -4 address show $int | /usr/bin/grep 'inet' | /usr/bin/awk '{print $2}' | /usr/bin/cut -d/ -f 1)
 
 function check(){
-        which zip > /dev/null 2>&1
+		which zip > /dev/null 2>&1
     if [ "$(echo $?)" == "0" ]; then
         :
     else
@@ -51,7 +51,7 @@ function check(){
 }
 
 function banner(){
-    echo ""
+	echo ""
     echo -e "$Blue __      ____________  $White  ________                 $End"
     echo -e "$Blue/  \    /  \______   \ $White /  _____/  ____   ____    $End"
     echo -e "$Blue\   \/\/   /|     ___/ $White/   \  ____/ __ \ /    \   $End"
