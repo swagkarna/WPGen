@@ -18,7 +18,7 @@ root@kali:~# WPGen eth0 443 bash
 
 ```cmd
 root@kali:~# wget -q "https://raw.githubusercontent.com/d4t4s3c/WPGen/main/WPGen.sh" -O /usr/bin/WPGen
-root@kali:~# chmod +x /usr/bin/WPgen
+root@kali:~# chmod +x /usr/bin/WPGen
 ```
 
 - <kbd>Cheat Sheet</kbd>
