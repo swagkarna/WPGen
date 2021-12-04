@@ -64,8 +64,8 @@ function banner(){
 }
 
 function main(){
-	echo ""
-   	echo -e "$Blue$f1$Yellow$f3$Blue$f2 $Green$f17 $Yellow$f19 $Red$f4$White$f10$Red$f5 $Red$f4$White$f11$Red$f5$End"
+    echo ""
+    echo -e "$Blue$f1$Yellow$f3$Blue$f2 $Green$f17 $Yellow$f19 $Red$f4$White$f10$Red$f5 $Red$f4$White$f11$Red$f5$End"
     echo ""
 }
 
