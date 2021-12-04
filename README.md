@@ -9,7 +9,7 @@ Tested Interfaces: <kbd>eth0</kbd> - <kbd>tun0</kbd> - <kbd>enp0s3</kbd>
 - <kbd>Use</kbd>
 
 ```cmd
-root@kali:~# WPGen eth0 443 bash
+root@kali:~# WPGen eth0 443
 ```
 
 ![](/2.png)
