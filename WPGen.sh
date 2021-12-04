@@ -70,17 +70,17 @@ function main(){
 }
 
 if [ ! -z $int ]; then
-	check
+    check
 else
-	banner
+    banner
     main
     exit 0
 fi
 
 if [ ! -z $lp ]; then
-	banner
+    banner
 else
-	banner
+    banner
     main
     exit 0
 fi
