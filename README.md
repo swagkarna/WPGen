@@ -1,6 +1,6 @@
 # WPGen
 
-**Auto Generator Malicious Plugins WordPress**
+**Auto Generator Malicious Plugins WordPress `(Reverse Shell)`**
 
 ![](/1.png)
 
