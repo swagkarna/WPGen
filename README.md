@@ -10,8 +10,6 @@
 root@kali:~# WPGen -l <LHOST> -p <LPORT>
 ```
 
-![](/2.png)
-
 - <kbd>Download / Install</kbd>
 
 ```cmd
