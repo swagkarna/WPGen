@@ -128,6 +128,7 @@ function listener(){
     echo ""
     nc -lvnp $lport
 }
+
 function start(){
     createPlugin
     compressPlugin
