@@ -7,7 +7,7 @@
 - <kbd>Use</kbd>
 
 ```cmd
-root@kali:~# WPGen -l <LHOST> -p <LPORT>
+root@kali:~# WPGen -h <LHOST> -p <LPORT>
 ```
 
 - <kbd>Download / Install</kbd>
