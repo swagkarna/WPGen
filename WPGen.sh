@@ -123,7 +123,7 @@ function compressPlugin(){
 }
 
 function listener(){
-    echo -e "$Blue$f18 $White$f22 $Red$f23 $lport$End"
+    echo -e "$Blue$f19 $White$f22 $Red$f23 $lport$End"
     sleep 2
     echo ""
     nc -lvnp $lport
