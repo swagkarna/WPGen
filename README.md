@@ -2,7 +2,7 @@
 
 **Auto Generator Malicious Plugins WordPress**
 
-![](/screenshot.png)
+![](/1.png)
 
 - <kbd>Download / Install</kbd>
 
